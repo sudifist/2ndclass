@@ -1,0 +1,2 @@
+Installed:
+  git.x86_64 0:2.23.3-1.amzn2.0.1
